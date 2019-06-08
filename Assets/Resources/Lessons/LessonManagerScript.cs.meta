@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5b9aff6c184b54987b80106485e83f94
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MasterInputControl: {instanceID: 0}
+  - lessonDisplay: {instanceID: 0}
+  - teacher: {instanceID: 0}
+  - worksheetDisplay: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

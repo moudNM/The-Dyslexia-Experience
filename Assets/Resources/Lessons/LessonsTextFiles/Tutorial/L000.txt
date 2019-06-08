@@ -1,0 +1,4 @@
+Reading Comprehension
+A story will be displayed, sentence by sentence. 
+The letters in this sentence will be flipping. Try to comprehend the sentences and the story as a whole.
+Afterwards, questions will be asked about the story. This is a test of reading comprehension.

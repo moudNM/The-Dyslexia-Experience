@@ -1,0 +1,5 @@
+Phonological Awareness
+Each letter of the English alphabet is mapped to some symbol. E.g. A is a circle.
+A word will be given in symbol representation. The word will be sounded.
+Symbol order will be mixed up. You need to arrange back to correct order.The length of word will increase after each correct answer.
+Symbol order will be mixed up. You need to arrange back to correct order.The length of word will increase after each correct answer.

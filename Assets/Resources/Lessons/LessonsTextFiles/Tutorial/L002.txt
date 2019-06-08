@@ -1,0 +1,5 @@
+Syllable Awareness
+Each word will be processed.
+The word will then be sounded.
+You have to determine how many syllables are in the word.
+You have to determine how many syllables are in the word.
